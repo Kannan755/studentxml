@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"href="student2.xsl"?>
+<studentsList>
+<student>
+<name>Kannan</name>
+<age>22</age>
+<dept>Commerce</dept>
+<clg>Maharaja</clg>
+</student>
+<student>
+<name>Sravani</name>
+<age>23</age>
+<dept>Computer</dept>
+<clg>FX</clg>
+</student>
+<student>
+<name>Prem</name>
+<age>25</age>
+<dept>Mechanic</dept>
+<clg>Scad</clg>
+</student>
+</studentsList>
